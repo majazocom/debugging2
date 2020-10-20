@@ -9,12 +9,17 @@ header {
     padding: 2rem 0;
     text-align: center;
     margin-bottom: 1rem;
+    color: white;
 }
 
 header h1 {
     padding: 0;
     margin: 0;
-    color: white;
+    line-height: 1;
+}
+
+header p {
+    margin: 0;
 }
 main {
     display: flex;
