@@ -1,5 +1,5 @@
 //Toggle image when clicking on first button
-//the image: <img src="https://images.unsplash.com/photo-1432298026442-0eabd0a98870?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80" alt="image" width="100" height="100"></img>
+//the image: <img src="https://images.unsplash.com/photo-1432298026442-0eabd0a98870?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80" alt="image" width="100%" height="auto"></img>
 
 
 
